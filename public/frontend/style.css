@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Deva:wght@100..800&display=swap');
+
+:root {
+    --primary: #60027a;
+    --light-primary: #60027a1a;
+    --secondary: #ba0d92;
+    --ancent: #212121;
+}
+
+body {
+    font-family: "Playpen Sans Deva", cursive;
+}
+
+.container {
+    width: 86%;
+    margin: auto;
+}
